@@ -2,7 +2,7 @@
 
 Khóa học "Thực hành CFD (Computational Fluid Dynamics - Tính toán động lực học lưu chất) với Python" được xây dựng để giúp các bạn làm quen với lĩnh vực CFD. Khóa học được chia làm nhiều phần, "Phần 1 - Phương pháp sai phân hữu hạn" gồm 10 bài. Qua 10 bài thực hành các bạn dần tiếp cận với phương pháp giải hệ phương trình Navier-Stokes. 
 
-Danh sách các bài học:
+**Danh sách các bài học:**
 * [Bài 1](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P1/blob/master/Bai_1.ipynb) Phương pháp sai phân hữu hạn
 
 * [Bài 2](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P1/blob/master/Bai_2.ipynb) Phương trình chuyển dịch
@@ -22,3 +22,15 @@ Danh sách các bài học:
 
 * [Bài 10](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P1/blob/master/Bai_10.ipynb) Hệ phương trình Navier-Stokes cho chất lỏng không nén được. Biến vector xoáy và hàm dòng
 
+**Tài liệu tham khảo:**
+
+* [VnCFD](https://vncfdgroup.wordpress.com/)
+* Computational Fluid Mechníc and Heat Transfer - J.Tannehill, D.Anderson, R.Pletcher
+* Computational Techniques for Fluid Dynamics - C. Fletcher
+* Burgers Equation - Mikel Landajuela
+* Numerical methods for Navier-Stokes equations with reference to the driven cavity problem - Mark Gregory Tatam
+* Numerical solution of partial differential equations - Louise Olsen-Kettle
+* Bài giảng phương trình đạo hàm riêng - Trần Văn Bằng
+* Bài giảng phương trình đạo hàm riêng nâng cao - Dư Đức Thắng
+* Gải tích số - Phạm Kỳ Anh
+* Phương pháp số giải các bài toán khí động lực học nhiều chiều - S.K. Godunov
