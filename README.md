@@ -1,6 +1,6 @@
 # CFD Notebook - Thực hành CFD với Python!
 
-Khóa học "Thực hành CFD (Computational Fluid Dynamics - Tính toán động lực học lưu chất) với Python" được xây dựng để giúp các bạn làm quen với lĩnh vực CFD. Khóa học được chia làm nhiều phần, "Phần 1 - Phương pháp sai phân hữu hạn" gồm 10 bài. Qua 10 bài thực hành các bạn gần tiếp cận phương pháp giải hệ phương trình Navier-Stokes. 
+Khóa học "Thực hành CFD (Computational Fluid Dynamics - Tính toán động lực học lưu chất) với Python" được xây dựng để giúp các bạn làm quen với lĩnh vực CFD. Khóa học được chia làm nhiều phần, "Phần 1 - Phương pháp sai phân hữu hạn" gồm 10 bài. Qua 10 bài thực hành các bạn dần tiếp cận với phương pháp giải hệ phương trình Navier-Stokes. 
 
 Danh sách các bài học:
 * [Bài 1](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P1/blob/master/Bai_1.ipynb) Phương pháp sai phân hữu hạn
