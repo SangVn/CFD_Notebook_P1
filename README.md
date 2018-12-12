@@ -18,7 +18,7 @@ Khóa học "Thực hành CFD (Computational Fluid Dynamics - Tính toán độn
 
 * [Bài 8](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P1/blob/master/Bai_8.ipynb) Hệ phương trình Navier-Stokes cho chất lỏng không nén được. Phương pháp MAC 
 
-* [Bài 9](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P1/blob/master/Bai_9.ipynb) Hệ phương trình Navier-Stokes cho chất lỏng không nén được. Phương pháp Proejection
+* [Bài 9](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P1/blob/master/Bai_9.ipynb) Hệ phương trình Navier-Stokes cho chất lỏng không nén được. Phương pháp Projection
 
 * [Bài 10](https://nbviewer.jupyter.org/github/SangVn/CFD_Notebook_P1/blob/master/Bai_10.ipynb) Hệ phương trình Navier-Stokes cho chất lỏng không nén được. Biến vector xoáy và hàm dòng
 
