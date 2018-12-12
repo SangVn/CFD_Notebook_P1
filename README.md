@@ -24,7 +24,6 @@ Khóa học "Thực hành CFD (Computational Fluid Dynamics - Tính toán độn
 
 **Tài liệu tham khảo:**
 
-* [VnCFD](https://vncfdgroup.wordpress.com/)
 * Computational Fluid Mechníc and Heat Transfer - J.Tannehill, D.Anderson, R.Pletcher
 * Computational Techniques for Fluid Dynamics - C. Fletcher
 * Burgers Equation - Mikel Landajuela
@@ -34,3 +33,5 @@ Khóa học "Thực hành CFD (Computational Fluid Dynamics - Tính toán độn
 * Bài giảng phương trình đạo hàm riêng nâng cao - Dư Đức Thắng
 * Gải tích số - Phạm Kỳ Anh
 * Phương pháp số giải các bài toán khí động lực học nhiều chiều - S.K. Godunov
+* [VnCFD](https://vncfdgroup.wordpress.com/)
+* [12 steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
